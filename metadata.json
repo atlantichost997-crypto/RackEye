@@ -1,0 +1,5 @@
+{
+  "name": "RackEye",
+  "description": "A modern frontend hosting dashboard with Supabase Auth and Coolify API integration.",
+  "requestFramePermissions": []
+}
